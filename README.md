@@ -3,4 +3,4 @@
 
 
 ## 数据集
- trained on the [Cityscapes](https://www.cityscapes-dataset.com/) dataset.
+ Trained on the [Cityscapes](https://www.cityscapes-dataset.com/) dataset and [Camvid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/).
